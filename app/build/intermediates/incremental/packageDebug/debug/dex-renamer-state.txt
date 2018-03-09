@@ -1,0 +1,4 @@
+#Wed Mar 07 22:01:41 PST 2018
+base.0=/Users/rnelson/Documents/Code/android/SingleActivityArchitectureDemo/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

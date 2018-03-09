@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_bottom_nav_one"
+        android:enabled="true"
+        android:title="NavItem1"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_bottom_nav_two"
+        android:enabled="true"
+        android:title="NavItem2"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_bottom_nav_three"
+        android:enabled="true"
+        android:title="NavItem3"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_bottom_nav_four"
+        android:enabled="true"
+        android:title="NavItem4"
+        app:showAsAction="always"/>
+
+</menu>

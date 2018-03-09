@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Mar 07 22:01:41 PST 2018
+0.baseType=DIRECTORY
+0.base=/Users/rnelson/Documents/Code/android/SingleActivityArchitectureDemo/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

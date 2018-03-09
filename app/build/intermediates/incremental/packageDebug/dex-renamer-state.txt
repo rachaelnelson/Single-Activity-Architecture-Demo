@@ -1,0 +1,4 @@
+#Thu Aug 31 13:12:34 PDT 2017
+base.0=/Users/rnelson/Code/github-repos/CoordinatorCollapsingSearch/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/rnelson/Code/github-repos/CoordinatorCollapsingSearch/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

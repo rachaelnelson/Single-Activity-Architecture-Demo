@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/rnelson/Code/github-repos/CoordinatorCollapsingSearch/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/rnelson/Code/github-repos/CoordinatorCollapsingSearch/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/rnelson/Code/github-repos/CoordinatorCollapsingSearch/app/build/intermediates/res/merged/debug/menu/bottom_nav.xml",
+        "source": "/Users/rnelson/Code/github-repos/CoordinatorCollapsingSearch/app/src/main/res/menu/bottom_nav.xml"
+    },
+    {
+        "merged": "/Users/rnelson/Code/github-repos/CoordinatorCollapsingSearch/app/build/intermediates/res/merged/debug/menu/navigation.xml",
+        "source": "/Users/rnelson/Code/github-repos/CoordinatorCollapsingSearch/app/src/main/res/menu/navigation.xml"
+    }
+]
