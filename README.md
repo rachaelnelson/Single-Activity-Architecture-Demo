@@ -16,5 +16,5 @@ This takes the single Activity, fragment-per-screen approach to navigating betwe
 7. Picasso for image loading
 8. Create a separate network layer with Retrofit services & RxJava/Retrofit adapter, implement caching/network fetching mechanism
 9. Break out reusable features into module libraries
-10.Get an Instant App feature module going
+10. Get an Instant App feature module going
 11. Implement screen navigation tracking for analytics 
